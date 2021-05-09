@@ -1,6 +1,8 @@
 # Simple Livechat
 A simple single page chat app that delivers messages without refreshing
-## Run npm install to install dependencies and run npm devStart to run node server
+## INSTALLATIONS
+Run npm install to install dependencies and run npm start to run node server.
+Open the index.html file to test app
 ## Mobile homepage
 ![ZuriChat](https://user-images.githubusercontent.com/36773145/117579618-94a88b00-b0a8-11eb-8b20-844c27fe14e0.PNG)
 ## Desktop homepage
